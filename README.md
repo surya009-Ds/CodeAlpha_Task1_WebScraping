@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Author
 Surya B  
-Python Developer | Data Science Enthusiast  
+Python Developer | Data Analytics | Data Science Enthusiast  
 
 ---
 
